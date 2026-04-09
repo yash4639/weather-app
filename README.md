@@ -30,7 +30,6 @@ This project is a Weather Dashboard that fetches real-time weather data using an
 
 * **app.py** → Streamlit application
 * **requirements.txt** → Dependencies
-* **images/** → Dashboard screenshots
 
 ---
 
