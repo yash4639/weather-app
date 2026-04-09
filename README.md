@@ -1,4 +1,4 @@
-# 🌦️ Weather Dashboard (Streamlit + SQL Server)
+# 🌦️ Weather App (Streamlit + SQL Server)
 
 ## 📌 Project Overview
 
